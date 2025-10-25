@@ -78,6 +78,10 @@ Conclusão
 O projeto demonstrou a eficiência de combinar agrupamento geográfico (K-Means) com heurísticas simples de otimização, reduzindo a distância total percorrida nas entregas. A distância total simulada foi de aproximadamente 3.08 unidades, mostrando que o agrupamento contribui para rotas mais curtas e equilibradas entre os entregadores.
 
 
+Como executar o projeto:
+Clone o Repositório: Obtenha o arquivo rota_inteligente.py.
+Instalar as Dependências:pip install numpy pandas scikit-learn matplotlib scipy
+Executar o Script: python main-ia.py
 
 Autor: Igor Ferreira Alves
 Engenharia da Computação — UNIFECAF, 2025
